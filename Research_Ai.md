@@ -31,27 +31,37 @@
 #### Auto AI
 
 <p>Using AutoAI, you can build and deploy a machine learning model with sophisticated training features and no coding. The tool does most of the work for you. Generally Text data is deployed in Auto AI.
-
+</p>
+<p>
 	Data pre-processing:  AutoAI applies various algorithms, or estimators,to analyze, clean, and prepare your raw data for machine learning.
-
+</p>
+<p>
 	Automated model selection:It selects model which best fit for your data.This approach saves time without sacrificing performance.
-
+</p>
+<p>
 	Automated feature engineering:Feature engineering attempts to transform the raw data into the combination of features that best represents the problem to achieve the most accurate prediction.
-
+</p>
+<p>
 	Hyperparameter optimization:AutoAI uses a novel hyper-parameter optimization algorithm optimized for costly function evaluations such as model training and scoring that are typical in Machines learning.
 </p>
 
 #### Apache Spark
 
-<p>Apche spark was basically developed for big data analysis. IBM uses it for AI like training on multiple cloud/ physical system. It is generally deployed when you have datasets in multiple millions.</p>
+<p>
+	Apche spark was basically developed for big data analysis. IBM uses it for AI like training on multiple cloud/ physical system. It is generally deployed when you have datasets in multiple millions.
+</p>
 
 #### Watson Assistant
 
-<p>Watson Assistant is a conversation AI platform that helps you provide customers fast, straightforward and accurate answers to their questions, across any application, device or channel. By addressing common customer inquiries, Watson Assistant reduces the cost of customer interactions, helping your agents focus on complex use cases – not repetitive responses.</p>
+<p>
+	Watson Assistant is a conversation AI platform that helps you provide customers fast, straightforward and accurate answers to their questions, across any application, device or channel. By addressing common customer inquiries, Watson Assistant reduces the cost of customer interactions, helping your agents focus on complex use cases – not repetitive responses.
+</p>
 
 #### Annotator for Clinical Data
 
-<p>This is use to extract specific characters from input data (generally TEXT /NLP).</p>
+<p>
+	This is use to extract specific characters from input data (generally TEXT /NLP).
+</p>
 
 
 #### Language Translator
@@ -83,7 +93,8 @@
 
 <p>
 	The Speech to Text service converts the human voice into the written word. It can be used anywhere there is a need to bridge the gap between the spoken word and their written form, including voice control of embedded systems, transcription of meetings and conference calls, and dictation of email and notes. This easy-to-use service uses machine intelligence to combine information about grammar and language structure with knowledge of the composition of the audio signal to generate an accurate transcription. The following languages and features are currently available:
-
+</p>
+<p>
 	English (US), English (UK), Japanese, Arabic (MSA, Broadband model only), Mandarin, Portuguese (Brazil), Spanish, French (Broadband model only), Korean
 </p>
 
