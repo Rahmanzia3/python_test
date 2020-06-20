@@ -14,13 +14,17 @@
 #### AI with Watson
 
 <p>IBM has been a leader in advancing AI-driven technologies for enterprises and has pioneered the future of machine learning systems for multiple industries. Based on decades of AI research, years of experience working with organizations of all sizes, and on learnings from over 30,000 IBM Watson engagements, IBM has developed the AI Ladder for successful artificial intelligence deployments.
-
+</p>
+<p>
 	Collect: Simplifying data collection and accessibility.
-
+</p>
+<p>
 	Analyze: Building scalable and trustworthy AI-driven systems.
-
+</p>
+<p>
 	Infuse: Integrating and optimizing systems across an entire business framework.
-
+</p>
+<p>
 	Modernize: Bringing your AI applications and systems to the cloud.
 </p>
 
@@ -28,13 +32,13 @@
 
 <p>Using AutoAI, you can build and deploy a machine learning model with sophisticated training features and no coding. The tool does most of the work for you. Generally Text data is deployed in Auto AI.
 
-	Data pre-processing:  AutoAI applies various algorithms, or estimators, 	to analyze, clean, and prepare your raw data for machine learning.
+	Data pre-processing:  AutoAI applies various algorithms, or estimators,to analyze, clean, and prepare your raw data for machine learning.
 
-	Automated model selection:It selects model which best fit for your 			data.This approach saves time without sacrificing performance.
+	Automated model selection:It selects model which best fit for your data.This approach saves time without sacrificing performance.
 
-	Automated feature engineering:Feature engineering attempts to transform 	the raw data into the combination of features that best represents 		the problem to achieve the most accurate prediction.
+	Automated feature engineering:Feature engineering attempts to transform the raw data into the combination of features that best represents the problem to achieve the most accurate prediction.
 
-	Hyperparameter optimization:AutoAI uses a novel hyper-parameter 			optimization algorithm optimized for costly function evaluations 		such as model training and scoring that are typical in Machines 		learning.
+	Hyperparameter optimization:AutoAI uses a novel hyper-parameter optimization algorithm optimized for costly function evaluations such as model training and scoring that are typical in Machines learning.
 </p>
 
 #### Apache Spark
